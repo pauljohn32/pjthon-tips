@@ -6,6 +6,12 @@ Objective C into Python, so I'll start a Tip sheet like I did when I
 started translating SAS to R (http://pj.freefaculty.org/R/Rtips.html).
 
 
+# Doc Sites that don't seem incorrect (so far)
+
+[Python-Course.eu](https://www.python-course.eu/python3_print.php):
+Handy!
+
+
 # Object Orientation
 
 ## Introspection: Ask an object for a list of methods that it can implement
@@ -34,7 +40,9 @@ Suggestions further readings:
 Introspection](https://web.archive.org/web/20180901124519/http://www.diveintopython.net/power_of_introspection/index.html
 "Introspection")
 
-2. [Guide to Python introspection (IBM)](https://www.ibm.com/developerworks/library/l-pyint/index.html)
+2. [Guide to Python introspection
+   (IBM)](https://www.ibm.com/developerworks/library/l-pyint/index.html):
+   **Warning** Python 2.2 code there.
 
 
 Consider using this general purpose introspection function from the
