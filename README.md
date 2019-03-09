@@ -8,7 +8,9 @@ started translating SAS to R (http://pj.freefaculty.org/R/Rtips.html).
 
 # Doc Sites that don't seem incorrect (so far)
 
-[Python-Course.eu](https://www.python-course.eu/python3_print.php):
+1. [Python.org](https://docs.python.org/3/)
+
+2. [Python-Course.eu](https://www.python-course.eu/python3_print.php):
 Handy!
 
 
