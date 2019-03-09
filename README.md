@@ -20,10 +20,10 @@ object_methods = [method_name for method_name in dir(object)
 
 Suggestions further readings:
 
-
-[Dive Into Python: Power of
+1. [Dive Into Python: Power of
 Introspection](https://web.archive.org/web/20180901124519/http://www.diveintopython.net/power_of_introspection/index.html
 "Introspection")
 
+2. [Guide to Python introspection (IBM)](https://www.ibm.com/developerworks/library/l-pyint/index.html)
 
 
