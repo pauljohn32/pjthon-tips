@@ -8,7 +8,7 @@ started translating SAS to R (http://pj.freefaculty.org/R/Rtips.html).
 
 # Object Orientation
 
-### Introspection: Ask an object for a list of methods that it can implement
+## Introspection: Ask an object for a list of methods that it can implement
 
 See
 https://stackoverflow.com/questions/34439/finding-what-methods-a-python-object-has/37464502
@@ -17,6 +17,10 @@ https://stackoverflow.com/questions/34439/finding-what-methods-a-python-object-h
 object_methods = [method_name for method_name in dir(object)
                   if callable(getattr(object, method_name))]
 ```
+
+Note that used `dir(object)` to harvest all of the attributes from
+object, and then fed all of those to `callable(getattr())` to find out
+if they were callable attributes.  Compact coding!
 
 Suggestions further readings:
 
