@@ -1,6 +1,6 @@
 # pjthon-tips
 PJ Python Tips
-# 2020-01-01
+## 2020-01-01
 
 I need to get more serious about translating programs written in R and
 Objective C into Python, so I'll start a Tip sheet like I did when I
